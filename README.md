@@ -9,8 +9,8 @@ An app developed to promote tourism in Tribal areas by tribal people. Any tribe 
 
 For promoting tourism we developed three Android Application:
 
-* [The Tourist APP](https://github.com/vishalsingh9423/TribalTourism/tree/master/VillageExpandedView)
-* The Villagers' APP
+* [The Tourist APP](https://github.com/mahimamandhana0503/TribalTourism/tree/master/VillageExpandedView)
+* [The Villagers' APP](https://github.com/mahimamandhana0503/TribalVillagers)
 * The Admins' APP
 
 All three app shares a common **firebase database**. 
